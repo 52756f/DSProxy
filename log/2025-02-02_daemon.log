@@ -1,0 +1,523 @@
+2025/02/02 15:08:36 Running in foreground
+2025/02/02 15:08:36 Defining die handler
+2025/02/02 15:13:35 Running in foreground
+2025/02/02 15:13:35 Defining die handler
+2025/02/02 15:14:06 Running in foreground
+2025/02/02 15:14:06 Defining die handler
+2025/02/02 22:33:57 Running in foreground
+2025/02/02 22:33:57 Defining die handler
+2025/02/02 23:03:25 Running in foreground
+2025/02/02 23:03:25 Defining die handler
+2025/02/02 23:06:04 Running in foreground
+2025/02/02 23:06:04 Defining die handler
+2025/02/02 23:06:04 App::Daemon die handler triggered.
+2025/02/02 23:06:04 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:06:09 According to my pidfile, there's no instance of me running.
+2025/02/02 23:06:22 Running in foreground
+2025/02/02 23:06:22 Defining die handler
+2025/02/02 23:06:22 App::Daemon die handler triggered.
+2025/02/02 23:06:22 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:06:31 Running in foreground
+2025/02/02 23:06:31 Defining die handler
+2025/02/02 23:06:31 App::Daemon die handler triggered.
+2025/02/02 23:06:31 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:06:32 Running in foreground
+2025/02/02 23:06:32 Defining die handler
+2025/02/02 23:06:32 App::Daemon die handler triggered.
+2025/02/02 23:06:32 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:06:37 According to my pidfile, there's no instance of me running.
+2025/02/02 23:06:47 Running in foreground
+2025/02/02 23:06:47 Defining die handler
+2025/02/02 23:06:47 App::Daemon die handler triggered.
+2025/02/02 23:06:47 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:07:05 Running in foreground
+2025/02/02 23:07:05 Defining die handler
+2025/02/02 23:10:27 According to my pidfile, there's no instance of me running.
+2025/02/02 23:10:30 Running in foreground
+2025/02/02 23:10:30 Defining die handler
+2025/02/02 23:10:30 App::Daemon die handler triggered.
+2025/02/02 23:10:30 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:10:46 Running in foreground
+2025/02/02 23:10:46 Defining die handler
+2025/02/02 23:10:46 App::Daemon die handler triggered.
+2025/02/02 23:10:46 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:10:48 Running in foreground
+2025/02/02 23:10:48 Defining die handler
+2025/02/02 23:10:48 App::Daemon die handler triggered.
+2025/02/02 23:10:48 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:10:49 Running in foreground
+2025/02/02 23:10:49 Defining die handler
+2025/02/02 23:10:49 App::Daemon die handler triggered.
+2025/02/02 23:10:49 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:10:50 Running in foreground
+2025/02/02 23:10:50 Defining die handler
+2025/02/02 23:10:50 App::Daemon die handler triggered.
+2025/02/02 23:10:50 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:10:58 Running in foreground
+2025/02/02 23:10:58 Defining die handler
+2025/02/02 23:10:58 App::Daemon die handler triggered.
+2025/02/02 23:10:58 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:11:00 Running in foreground
+2025/02/02 23:11:00 Defining die handler
+2025/02/02 23:11:00 App::Daemon die handler triggered.
+2025/02/02 23:11:00 Die handler removes pidfile ./ok_proxy.pid
+2025/02/02 23:11:48 Running in foreground
+2025/02/02 23:11:48 Defining die handler
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47499 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47500 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47502 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47503 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47504 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47505 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47506 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47507 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47508 but master pid is 47442
+2025/02/02 23:11:58 App::Daemon die handler triggered.
+2025/02/02 23:11:58 Die handler called for pid 47509 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47555 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47556 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47557 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47558 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47559 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47560 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47561 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47562 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47563 but master pid is 47442
+2025/02/02 23:12:08 App::Daemon die handler triggered.
+2025/02/02 23:12:08 Die handler called for pid 47564 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47570 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47571 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47573 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47574 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47575 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47576 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47577 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47578 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47579 but master pid is 47442
+2025/02/02 23:12:09 App::Daemon die handler triggered.
+2025/02/02 23:12:09 Die handler called for pid 47580 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47610 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47612 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47613 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47614 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47615 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47616 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47617 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47618 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47619 but master pid is 47442
+2025/02/02 23:12:17 App::Daemon die handler triggered.
+2025/02/02 23:12:17 Die handler called for pid 47620 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47624 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47626 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47627 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47628 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47629 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47630 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47631 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47632 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47633 but master pid is 47442
+2025/02/02 23:12:18 App::Daemon die handler triggered.
+2025/02/02 23:12:18 Die handler called for pid 47634 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47636 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47638 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47639 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47640 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47641 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47642 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47643 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47644 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47645 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47646 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47647 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47648 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47650 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47651 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47652 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47653 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47654 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47655 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47656 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47657 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47658 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47659 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47660 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47661 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47662 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47663 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47664 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47665 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47666 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47667 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47671 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47672 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47673 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47674 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47675 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47676 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47677 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47678 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47679 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47680 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47682 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47683 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47684 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47685 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47686 but master pid is 47442
+2025/02/02 23:12:19 App::Daemon die handler triggered.
+2025/02/02 23:12:19 Die handler called for pid 47687 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47688 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47689 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47690 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47691 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47692 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47693 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47694 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47695 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47696 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47697 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47698 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47699 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47700 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47701 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47702 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47703 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47704 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47705 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47706 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47707 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47708 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47709 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47710 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47711 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47713 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47714 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47715 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47716 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47717 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47718 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47719 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47720 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47721 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47722 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47723 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47724 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47726 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47727 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47728 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47729 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47730 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47731 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47732 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47733 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47734 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47735 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47736 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47737 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47738 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47739 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47740 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47741 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47742 but master pid is 47442
+2025/02/02 23:12:20 App::Daemon die handler triggered.
+2025/02/02 23:12:20 Die handler called for pid 47743 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47758 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47761 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47762 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47763 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47764 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47765 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47767 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47766 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47772 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47773 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47774 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47775 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47776 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47777 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47778 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47779 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47780 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47781 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47782 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47785 but master pid is 47442
+2025/02/02 23:12:23 Die handler called for pid 47784 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47786 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47787 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47788 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47789 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47790 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47791 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47792 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47793 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47794 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47795 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47796 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47797 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47798 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47799 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47800 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47801 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47802 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47803 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47804 but master pid is 47442
+2025/02/02 23:12:23 App::Daemon die handler triggered.
+2025/02/02 23:12:23 Die handler called for pid 47805 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47815 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47820 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47821 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47827 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47828 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47829 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47830 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47831 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47832 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47834 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47833 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47835 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47836 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47837 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47838 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47839 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47841 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47844 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47845 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47846 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47848 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47849 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47850 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47851 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47852 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47853 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47854 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47855 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47856 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47857 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47858 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47859 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47860 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47861 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47862 but master pid is 47442
+2025/02/02 23:12:25 App::Daemon die handler triggered.
+2025/02/02 23:12:25 Die handler called for pid 47863 but master pid is 47442
+2025/02/02 23:14:33 Running in foreground
+2025/02/02 23:14:33 Defining die handler
+2025/02/02 23:16:21 Running in foreground
+2025/02/02 23:16:21 Defining die handler

@@ -1,0 +1,1747 @@
+[2-1-2025 15:8] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 15:13] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 15:14] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 22:33] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:3] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:3] New connection from 127.0.0.1:55430
+[2-1-2025 23:3] Login Ok: 
+[2-1-2025 23:3] New connection from 127.0.0.1:55436
+[2-1-2025 23:3] Target: developer.mozilla.org:443
+[2-1-2025 23:3] developer.mozilla.org BLOCKED
+[2-1-2025 23:4] New connection from 127.0.0.1:55438
+[2-1-2025 23:4] Target: developer.mozilla.org:443
+[2-1-2025 23:4] developer.mozilla.org BLOCKED
+[2-1-2025 23:4] New connection from 127.0.0.1:40458
+[2-1-2025 23:4] Target: github.com:443
+[2-1-2025 23:4] github.com BLOCKED
+[2-1-2025 23:5] New connection from 127.0.0.1:49962
+[2-1-2025 23:5] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:5] safebrowsing.googleapis.com BLOCKED
+[2-1-2025 23:7] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:7] New connection from 127.0.0.1:54618
+[2-1-2025 23:7] Target: github.com:443
+[2-1-2025 23:7] COUNT: 199
+[2-1-2025 23:7] github.com BLOCKED
+[2-1-2025 23:7] New connection from 127.0.0.1:54634
+[2-1-2025 23:7] Target: firefox.settings.services.mozilla.com:443
+[2-1-2025 23:7] COUNT: 199
+[2-1-2025 23:7] firefox.settings.services.mozilla.com BLOCKED
+[2-1-2025 23:7] New connection from 127.0.0.1:54642
+[2-1-2025 23:7] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:7] COUNT: 199
+[2-1-2025 23:7] incoming.telemetry.mozilla.org BLOCKED
+[2-1-2025 23:7] New connection from 127.0.0.1:54648
+[2-1-2025 23:7] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:7] COUNT: 199
+[2-1-2025 23:7] incoming.telemetry.mozilla.org BLOCKED
+[2-1-2025 23:7] New connection from 127.0.0.1:54660
+[2-1-2025 23:7] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:7] COUNT: 199
+[2-1-2025 23:7] incoming.telemetry.mozilla.org BLOCKED
+[2-1-2025 23:10] New connection from 127.0.0.1:58942
+[2-1-2025 23:10] Target: push.services.mozilla.com:443
+[2-1-2025 23:10] COUNT: 199
+[2-1-2025 23:10] push.services.mozilla.com BLOCKED
+[2-1-2025 23:11] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:11] New connection from 127.0.0.1:37162
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37176
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37182
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37192
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37202
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37206
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37216
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37232
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37246
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:11] New connection from 127.0.0.1:37252
+[2-1-2025 23:11] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39248
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39256
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39266
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39274
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39280
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39296
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39298
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39314
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39324
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39334
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39344
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39356
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39366
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39376
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39390
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39406
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39418
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39432
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39448
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:39454
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56154
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56170
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56182
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56190
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56202
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56216
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56232
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56244
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56260
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56268
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56278
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56294
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56308
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56310
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56314
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56320
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56336
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56344
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56356
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56358
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56366
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56370
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56376
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56382
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56384
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56388
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56390
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56400
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56414
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56422
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56434
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56446
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56460
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56476
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56482
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56486
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56492
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56508
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56510
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56514
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56518
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56522
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56530
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56534
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56542
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56558
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56570
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56584
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56588
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56600
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56616
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56620
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56630
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56638
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56644
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56646
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56660
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56676
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56678
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56694
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56696
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56706
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56710
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56722
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56730
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56744
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56746
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56762
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56778
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56794
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56810
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56822
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56832
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56846
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56862
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56868
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56874
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56880
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56884
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56898
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56912
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56918
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56922
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56934
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56948
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56950
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56960
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56964
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56978
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56986
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:56992
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57002
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57004
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57018
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57026
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57036
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57038
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57052
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57068
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57074
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57090
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57106
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57114
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57116
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57130
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57146
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57150
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57166
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57182
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57190
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57192
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57198
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57208
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57210
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57222
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57226
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57230
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57244
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57256
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:57272
+[2-1-2025 23:12] Target: github.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33420
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33422
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33424
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33428
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33430
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33446
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33458
+[2-1-2025 23:12] New connection from 127.0.0.1:33464
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33470
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33474
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33488
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33494
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33506
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33510
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33522
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33528
+[2-1-2025 23:12] New connection from 127.0.0.1:33532
+[2-1-2025 23:12] Target: ads-img.mozilla.org:443
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33544
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33560
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33574
+[2-1-2025 23:12] New connection from 127.0.0.1:33580
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] Target: ads.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33588
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33598
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33600
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33602
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33612
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33628
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33638
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33646
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33650
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33666
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33680
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33696
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33712
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33722
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33730
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33740
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33752
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33768
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33782
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33784
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33792
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33794
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33800
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33806
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33818
+[2-1-2025 23:12] Target: http://httpforever.com/js/init.min.js
+[2-1-2025 23:12] New connection from 127.0.0.1:33824
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33836
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33838
+[2-1-2025 23:12] Target: http://httpforever.com/css/style.min.css
+[2-1-2025 23:12] New connection from 127.0.0.1:33848
+[2-1-2025 23:12] New connection from 127.0.0.1:33864
+[2-1-2025 23:12] Target: http://httpforever.com/css/style-wide.min.css
+[2-1-2025 23:12] New connection from 127.0.0.1:33876
+[2-1-2025 23:12] Target: http://httpforever.com/css/style-normal.min.css
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33878
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33888
+[2-1-2025 23:12] Target: cdnjs.cloudflare.com:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33890
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33898
+[2-1-2025 23:12] Target: http://httpforever.com/favicon.ico
+[2-1-2025 23:12] New connection from 127.0.0.1:33902
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33910
+[2-1-2025 23:12] New connection from 127.0.0.1:33916
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33928
+[2-1-2025 23:12] New connection from 127.0.0.1:33930
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33934
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33942
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33946
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33954
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33964
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33976
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:33988
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34002
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34004
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34016
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34032
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34042
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34050
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34052
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34054
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34060
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34072
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:12] New connection from 127.0.0.1:34074
+[2-1-2025 23:12] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:14] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:14] New connection from 127.0.0.1:60392
+[2-1-2025 23:14] Target: github.com:443
+[2-1-2025 23:14] Search4Host: 1
+[2-1-2025 23:14] COUNT: 199
+[2-1-2025 23:14] github.com BLOCKED
+[2-1-2025 23:16] Proxy server listen on 0.0.0.0:5555
+[2-1-2025 23:16] New connection from 127.0.0.1:58902
+[2-1-2025 23:16] Target: github.com:443
+[2-1-2025 23:16] Search4Host: github.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58912
+[2-1-2025 23:16] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:16] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58914
+[2-1-2025 23:16] Target: github.githubassets.com:443
+[2-1-2025 23:16] Search4Host: github.githubassets.com
+[2-1-2025 23:16] New connection from 127.0.0.1:58920
+[2-1-2025 23:16] New connection from 127.0.0.1:58926
+[2-1-2025 23:16] Target: github.githubassets.com:443
+[2-1-2025 23:16] Search4Host: github.githubassets.com
+[2-1-2025 23:16] Target: github.githubassets.com:443
+[2-1-2025 23:16] Search4Host: github.githubassets.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58934
+[2-1-2025 23:16] New connection from 127.0.0.1:58942
+[2-1-2025 23:16] Target: avatars.githubusercontent.com:443
+[2-1-2025 23:16] Search4Host: avatars.githubusercontent.com
+[2-1-2025 23:16] New connection from 127.0.0.1:58948
+[2-1-2025 23:16] Target: avatars.githubusercontent.com:443
+[2-1-2025 23:16] Search4Host: avatars.githubusercontent.com
+[2-1-2025 23:16] Target: camo.githubusercontent.com:443
+[2-1-2025 23:16] Search4Host: camo.githubusercontent.com
+[2-1-2025 23:16] New connection from 127.0.0.1:58956
+[2-1-2025 23:16] Target: camo.githubusercontent.com:443
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] Search4Host: camo.githubusercontent.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58958
+[2-1-2025 23:16] Target: github.githubassets.com:443
+[2-1-2025 23:16] Search4Host: github.githubassets.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58968
+[2-1-2025 23:16] New connection from 127.0.0.1:58982
+[2-1-2025 23:16] Target: github.githubassets.com:443
+[2-1-2025 23:16] Search4Host: github.githubassets.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58984
+[2-1-2025 23:16] Target: alive.github.com:443
+[2-1-2025 23:16] Search4Host: alive.github.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:16] New connection from 127.0.0.1:58990
+[2-1-2025 23:16] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:16] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:16] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:57062
+[2-1-2025 23:17] Target: www.google.com:443
+[2-1-2025 23:17] Search4Host: www.google.com
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:57076
+[2-1-2025 23:17] Target: http://o.pki.goog/wr2
+[2-1-2025 23:17] Search4Host: o.pki.goog
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:57086
+[2-1-2025 23:17] Target: www.google.com:443
+[2-1-2025 23:17] Search4Host: www.google.com
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:57088
+[2-1-2025 23:17] Target: http://o.pki.goog/wr2
+[2-1-2025 23:17] Search4Host: o.pki.goog
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:35546
+[2-1-2025 23:17] Target: www.google.com:443
+[2-1-2025 23:17] Search4Host: www.google.com
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:35554
+[2-1-2025 23:17] Target: http://o.pki.goog/wr2
+[2-1-2025 23:17] Search4Host: o.pki.goog
+[2-1-2025 23:17] COUNT: 0
+[2-1-2025 23:17] New connection from 127.0.0.1:35562
+[2-1-2025 23:17] Target: ard.de:443
+[2-1-2025 23:17] Search4Host: ard.de
+[2-1-2025 23:17] COUNT: 1
+[2-1-2025 23:17] ard.de BLOCKED
+[2-1-2025 23:18] New connection from 127.0.0.1:35688
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35698
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35704
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35718
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35734
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35738
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35744
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35752
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35756
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35770
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35786
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35796
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35810
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35818
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35824
+[2-1-2025 23:18] Target: www.google.com:443
+[2-1-2025 23:18] Search4Host: www.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:35832
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:37564
+[2-1-2025 23:18] Target: ogads-pa.clients6.google.com:443
+[2-1-2025 23:18] Search4Host: ogads-pa.clients6.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:37580
+[2-1-2025 23:18] Target: accounts.google.com:443
+[2-1-2025 23:18] Search4Host: accounts.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:37596
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:37606
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60572
+[2-1-2025 23:18] Target: ogads-pa.clients6.google.com:443
+[2-1-2025 23:18] Search4Host: ogads-pa.clients6.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60588
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60594
+[2-1-2025 23:18] Target: ogs.google.com:443
+[2-1-2025 23:18] Search4Host: ogs.google.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60600
+[2-1-2025 23:18] Target: http://o.pki.goog/wr2
+[2-1-2025 23:18] Search4Host: o.pki.goog
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60606
+[2-1-2025 23:18] Target: github.com:443
+[2-1-2025 23:18] Search4Host: github.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:60620
+[2-1-2025 23:18] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:18] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50160
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50176
+[2-1-2025 23:18] New connection from 127.0.0.1:50180
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] New connection from 127.0.0.1:50192
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] New connection from 127.0.0.1:50198
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50208
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] Target: github.githubassets.com:443
+[2-1-2025 23:18] Search4Host: github.githubassets.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50214
+[2-1-2025 23:18] Target: user-images.githubusercontent.com:443
+[2-1-2025 23:18] Search4Host: user-images.githubusercontent.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50218
+[2-1-2025 23:18] Target: alive.github.com:443
+[2-1-2025 23:18] Search4Host: alive.github.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:18] New connection from 127.0.0.1:50230
+[2-1-2025 23:18] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:18] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:18] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:34954
+[2-1-2025 23:19] Target: filterlists.com:443
+[2-1-2025 23:19] Search4Host: filterlists.com
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:34958
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] New connection from 127.0.0.1:34960
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] New connection from 127.0.0.1:34972
+[2-1-2025 23:19] New connection from 127.0.0.1:34974
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] New connection from 127.0.0.1:34980
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] New connection from 127.0.0.1:34986
+[2-1-2025 23:19] Target: api.filterlists.com:443
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] Search4Host: api.filterlists.com
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37290
+[2-1-2025 23:19] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:19] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37294
+[2-1-2025 23:19] Target: http://o.pki.goog/wr2
+[2-1-2025 23:19] Search4Host: o.pki.goog
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37302
+[2-1-2025 23:19] Target: en.wikipedia.org:443
+[2-1-2025 23:19] Search4Host: en.wikipedia.org
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37312
+[2-1-2025 23:19] Target: upload.wikimedia.org:443
+[2-1-2025 23:19] Search4Host: upload.wikimedia.org
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37318
+[2-1-2025 23:19] Target: upload.wikimedia.org:443
+[2-1-2025 23:19] Search4Host: upload.wikimedia.org
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:19] New connection from 127.0.0.1:37328
+[2-1-2025 23:19] Target: meta.wikimedia.org:443
+[2-1-2025 23:19] Search4Host: meta.wikimedia.org
+[2-1-2025 23:19] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:39440
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:39450
+[2-1-2025 23:20] Target: http://o.pki.goog/wr2
+[2-1-2025 23:20] Search4Host: o.pki.goog
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49576
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49578
+[2-1-2025 23:20] Target: http://o.pki.goog/wr2
+[2-1-2025 23:20] Search4Host: o.pki.goog
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49584
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49586
+[2-1-2025 23:20] Target: http://o.pki.goog/wr2
+[2-1-2025 23:20] Search4Host: o.pki.goog
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49588
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49602
+[2-1-2025 23:20] Target: http://o.pki.goog/wr2
+[2-1-2025 23:20] Search4Host: o.pki.goog
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49610
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49618
+[2-1-2025 23:20] Target: http://o.pki.goog/wr2
+[2-1-2025 23:20] Search4Host: o.pki.goog
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49632
+[2-1-2025 23:20] Target: www.google.com:443
+[2-1-2025 23:20] Search4Host: www.google.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49644
+[2-1-2025 23:20] Target: github.com:443
+[2-1-2025 23:20] Search4Host: github.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49648
+[2-1-2025 23:20] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:20] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49652
+[2-1-2025 23:20] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:20] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:49668
+[2-1-2025 23:20] Target: avatars.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: avatars.githubusercontent.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:57492
+[2-1-2025 23:20] Target: camo.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: camo.githubusercontent.com
+[2-1-2025 23:20] New connection from 127.0.0.1:57494
+[2-1-2025 23:20] Target: private-user-images.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: private-user-images.githubusercontent.com
+[2-1-2025 23:20] New connection from 127.0.0.1:57500
+[2-1-2025 23:20] Target: private-user-images.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: private-user-images.githubusercontent.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:34354
+[2-1-2025 23:20] Target: raw.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: raw.githubusercontent.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:20] New connection from 127.0.0.1:34362
+[2-1-2025 23:20] Target: raw.githubusercontent.com:443
+[2-1-2025 23:20] Search4Host: raw.githubusercontent.com
+[2-1-2025 23:20] COUNT: 0
+[2-1-2025 23:21] New connection from 127.0.0.1:45590
+[2-1-2025 23:21] Target: ads.mozilla.org:443
+[2-1-2025 23:21] Search4Host: ads.mozilla.org
+[2-1-2025 23:21] COUNT: 0
+[2-1-2025 23:21] New connection from 127.0.0.1:45594
+[2-1-2025 23:21] Target: http://o.pki.goog/s/wr3/BeY
+[2-1-2025 23:21] Search4Host: o.pki.goog
+[2-1-2025 23:21] COUNT: 0
+[2-1-2025 23:21] New connection from 127.0.0.1:45608
+[2-1-2025 23:21] Target: ads-img.mozilla.org:443
+[2-1-2025 23:21] Search4Host: ads-img.mozilla.org
+[2-1-2025 23:21] COUNT: 0
+[2-1-2025 23:21] New connection from 127.0.0.1:45624
+[2-1-2025 23:21] Target: http://o.pki.goog/s/wr3/3cs
+[2-1-2025 23:21] Search4Host: o.pki.goog
+[2-1-2025 23:21] COUNT: 0
+[2-1-2025 23:22] New connection from 127.0.0.1:41242
+[2-1-2025 23:22] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:22] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:22] COUNT: 0
+[2-1-2025 23:23] New connection from 127.0.0.1:47872
+[2-1-2025 23:23] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:23] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:23] COUNT: 0
+[2-1-2025 23:23] New connection from 127.0.0.1:47876
+[2-1-2025 23:23] Target: http://ocsp.digicert.com/
+[2-1-2025 23:23] Search4Host: ocsp.digicert.com
+[2-1-2025 23:23] COUNT: 0
+[2-1-2025 23:24] New connection from 127.0.0.1:36268
+[2-1-2025 23:24] Target: github.com:443
+[2-1-2025 23:24] Search4Host: github.com
+[2-1-2025 23:24] COUNT: 0
+[2-1-2025 23:24] New connection from 127.0.0.1:33158
+[2-1-2025 23:24] Target: github.com:443
+[2-1-2025 23:24] Search4Host: github.com
+[2-1-2025 23:24] COUNT: 0
+[2-1-2025 23:24] New connection from 127.0.0.1:33168
+[2-1-2025 23:24] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:24] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:24] COUNT: 0
+[2-1-2025 23:27] New connection from 127.0.0.1:36360
+[2-1-2025 23:27] Target: github.com:443
+[2-1-2025 23:27] Search4Host: github.com
+[2-1-2025 23:27] COUNT: 0
+[2-1-2025 23:27] New connection from 127.0.0.1:36376
+[2-1-2025 23:27] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:27] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:27] COUNT: 0
+[2-1-2025 23:27] New connection from 127.0.0.1:33670
+[2-1-2025 23:27] Target: github.githubassets.com:443
+[2-1-2025 23:27] Search4Host: github.githubassets.com
+[2-1-2025 23:27] New connection from 127.0.0.1:33672
+[2-1-2025 23:27] Target: github.githubassets.com:443
+[2-1-2025 23:27] Search4Host: github.githubassets.com
+[2-1-2025 23:27] COUNT: 0
+[2-1-2025 23:27] COUNT: 0
+[2-1-2025 23:27] New connection from 127.0.0.1:33686
+[2-1-2025 23:27] Target: github.githubassets.com:443
+[2-1-2025 23:27] Search4Host: github.githubassets.com
+[2-1-2025 23:27] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:40826
+[2-1-2025 23:28] Target: www.google.com:443
+[2-1-2025 23:28] Search4Host: www.google.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:40828
+[2-1-2025 23:28] Target: ogads-pa.clients6.google.com:443
+[2-1-2025 23:28] Search4Host: ogads-pa.clients6.google.com
+[2-1-2025 23:28] New connection from 127.0.0.1:40844
+[2-1-2025 23:28] Target: accounts.google.com:443
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Search4Host: accounts.google.com
+[2-1-2025 23:28] New connection from 127.0.0.1:40846
+[2-1-2025 23:28] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:28] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:48438
+[2-1-2025 23:28] Target: ogs.google.com:443
+[2-1-2025 23:28] Search4Host: ogs.google.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:48452
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59100
+[2-1-2025 23:28] New connection from 127.0.0.1:59110
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59114
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59126
+[2-1-2025 23:28] New connection from 127.0.0.1:59136
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59140
+[2-1-2025 23:28] New connection from 127.0.0.1:59142
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59146
+[2-1-2025 23:28] New connection from 127.0.0.1:59150
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59158
+[2-1-2025 23:28] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:28] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:59166
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54772
+[2-1-2025 23:28] Target: www.reddit.com:443
+[2-1-2025 23:28] Search4Host: www.reddit.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54774
+[2-1-2025 23:28] New connection from 127.0.0.1:54778
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] New connection from 127.0.0.1:54790
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] New connection from 127.0.0.1:54806
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] New connection from 127.0.0.1:54814
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] New connection from 127.0.0.1:54830
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54836
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] New connection from 127.0.0.1:54850
+[2-1-2025 23:28] New connection from 127.0.0.1:54854
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54868
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] Target: www.redditstatic.com:443
+[2-1-2025 23:28] Search4Host: www.redditstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54874
+[2-1-2025 23:28] Target: preview.redd.it:443
+[2-1-2025 23:28] Search4Host: preview.redd.it
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54890
+[2-1-2025 23:28] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:28] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54894
+[2-1-2025 23:28] Target: styles.redditmedia.com:443
+[2-1-2025 23:28] Search4Host: styles.redditmedia.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54902
+[2-1-2025 23:28] New connection from 127.0.0.1:54918
+[2-1-2025 23:28] Target: external-preview.redd.it:443
+[2-1-2025 23:28] Search4Host: external-preview.redd.it
+[2-1-2025 23:28] Target: b.thumbs.redditmedia.com:443
+[2-1-2025 23:28] Search4Host: b.thumbs.redditmedia.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54926
+[2-1-2025 23:28] Target: www.gstatic.com:443
+[2-1-2025 23:28] Search4Host: www.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54928
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54932
+[2-1-2025 23:28] New connection from 127.0.0.1:54936
+[2-1-2025 23:28] Target: fonts.gstatic.com:443
+[2-1-2025 23:28] Search4Host: fonts.gstatic.com
+[2-1-2025 23:28] Target: fonts.gstatic.com:443
+[2-1-2025 23:28] Search4Host: fonts.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54938
+[2-1-2025 23:28] New connection from 127.0.0.1:54948
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54956
+[2-1-2025 23:28] New connection from 127.0.0.1:54960
+[2-1-2025 23:28] Target: www.gstatic.com:443
+[2-1-2025 23:28] Search4Host: www.gstatic.com
+[2-1-2025 23:28] Target: www.gstatic.com:443
+[2-1-2025 23:28] Search4Host: www.gstatic.com
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] New connection from 127.0.0.1:54962
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] New connection from 127.0.0.1:54966
+[2-1-2025 23:28] Target: http://o.pki.goog/wr2
+[2-1-2025 23:28] Search4Host: o.pki.goog
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:28] COUNT: 0
+[2-1-2025 23:29] New connection from 127.0.0.1:41018
+[2-1-2025 23:29] Target: firebog.net:443
+[2-1-2025 23:29] Search4Host: firebog.net
+[2-1-2025 23:29] COUNT: 0
+[2-1-2025 23:29] New connection from 127.0.0.1:42286
+[2-1-2025 23:29] Target: raw.githubusercontent.com:443
+[2-1-2025 23:29] Search4Host: raw.githubusercontent.com
+[2-1-2025 23:29] COUNT: 0
+[2-1-2025 23:30] New connection from 127.0.0.1:43232
+[2-1-2025 23:30] Target: oisd.nl:443
+[2-1-2025 23:30] Search4Host: oisd.nl
+[2-1-2025 23:30] COUNT: 0
+[2-1-2025 23:30] New connection from 127.0.0.1:41992
+[2-1-2025 23:30] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:30] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:30] COUNT: 0
+[2-1-2025 23:31] New connection from 127.0.0.1:34190
+[2-1-2025 23:31] Target: nsfw.oisd.nl:443
+[2-1-2025 23:31] Search4Host: nsfw.oisd.nl
+[2-1-2025 23:31] COUNT: 0
+[2-1-2025 23:31] New connection from 127.0.0.1:34202
+[2-1-2025 23:31] Target: http://e6.o.lencr.org/
+[2-1-2025 23:31] Search4Host: e6.o.lencr.org
+[2-1-2025 23:31] COUNT: 0
+[2-1-2025 23:31] New connection from 127.0.0.1:35094
+[2-1-2025 23:31] Target: www.google.com:443
+[2-1-2025 23:31] Search4Host: www.google.com
+[2-1-2025 23:31] COUNT: 0
+[2-1-2025 23:31] New connection from 127.0.0.1:35106
+[2-1-2025 23:31] Target: encrypted-tbn0.gstatic.com:443
+[2-1-2025 23:31] Search4Host: encrypted-tbn0.gstatic.com
+[2-1-2025 23:31] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:35120
+[2-1-2025 23:32] Target: ogads-pa.clients6.google.com:443
+[2-1-2025 23:32] Search4Host: ogads-pa.clients6.google.com
+[2-1-2025 23:32] New connection from 127.0.0.1:35126
+[2-1-2025 23:32] Target: accounts.google.com:443
+[2-1-2025 23:32] Search4Host: accounts.google.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52076
+[2-1-2025 23:32] Target: ogs.google.com:443
+[2-1-2025 23:32] Search4Host: ogs.google.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52078
+[2-1-2025 23:32] Target: github.com:443
+[2-1-2025 23:32] Search4Host: github.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52088
+[2-1-2025 23:32] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:32] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52100
+[2-1-2025 23:32] Target: github.githubassets.com:443
+[2-1-2025 23:32] Search4Host: github.githubassets.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52108
+[2-1-2025 23:32] New connection from 127.0.0.1:52112
+[2-1-2025 23:32] New connection from 127.0.0.1:52114
+[2-1-2025 23:32] Target: avatars.githubusercontent.com:443
+[2-1-2025 23:32] Search4Host: avatars.githubusercontent.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52118
+[2-1-2025 23:32] Target: github.githubassets.com:443
+[2-1-2025 23:32] Search4Host: github.githubassets.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52130
+[2-1-2025 23:32] Target: alive.github.com:443
+[2-1-2025 23:32] Search4Host: alive.github.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:52138
+[2-1-2025 23:32] New connection from 127.0.0.1:51360
+[2-1-2025 23:32] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:32] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:44220
+[2-1-2025 23:32] Target: www.kiboke-studio.hr:443
+[2-1-2025 23:32] Search4Host: www.kiboke-studio.hr
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:44222
+[2-1-2025 23:32] Target: www.i-dont-care-about-cookies.eu:443
+[2-1-2025 23:32] Search4Host: www.i-dont-care-about-cookies.eu
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:32] New connection from 127.0.0.1:41052
+[2-1-2025 23:32] Target: http://ocsp.r2m02.amazontrust.com/
+[2-1-2025 23:32] Search4Host: ocsp.r2m02.amazontrust.com
+[2-1-2025 23:32] COUNT: 0
+[2-1-2025 23:33] New connection from 127.0.0.1:48774
+[2-1-2025 23:33] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:33] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:33] COUNT: 0
+[2-1-2025 23:33] New connection from 127.0.0.1:37870
+[2-1-2025 23:33] Target: www.google.com:443
+[2-1-2025 23:33] Search4Host: www.google.com
+[2-1-2025 23:33] COUNT: 0
+[2-1-2025 23:33] New connection from 127.0.0.1:37880
+[2-1-2025 23:33] Target: http://o.pki.goog/wr2
+[2-1-2025 23:33] Search4Host: o.pki.goog
+[2-1-2025 23:33] COUNT: 0
+[2-1-2025 23:33] New connection from 127.0.0.1:59028
+[2-1-2025 23:33] Target: www.jabcreations.com:443
+[2-1-2025 23:33] Search4Host: www.jabcreations.com
+[2-1-2025 23:33] COUNT: 0
+[2-1-2025 23:34] New connection from 127.0.0.1:36416
+[2-1-2025 23:34] Target: zeltser.com:443
+[2-1-2025 23:34] Search4Host: zeltser.com
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] New connection from 127.0.0.1:36432
+[2-1-2025 23:34] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:34] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] New connection from 127.0.0.1:36438
+[2-1-2025 23:34] New connection from 127.0.0.1:36444
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] New connection from 127.0.0.1:36456
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] New connection from 127.0.0.1:36460
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] New connection from 127.0.0.1:36476
+[2-1-2025 23:34] New connection from 127.0.0.1:36492
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] Target: cdn.zeltser.com:443
+[2-1-2025 23:34] Search4Host: cdn.zeltser.com
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:34] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:39388
+[2-1-2025 23:35] Target: db.aa419.org:443
+[2-1-2025 23:35] Search4Host: db.aa419.org
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:49770
+[2-1-2025 23:35] Target: github.com:443
+[2-1-2025 23:35] Search4Host: github.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:49780
+[2-1-2025 23:35] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:35] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:49782
+[2-1-2025 23:35] Target: avatars.githubusercontent.com:443
+[2-1-2025 23:35] Search4Host: avatars.githubusercontent.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:49798
+[2-1-2025 23:35] Target: camo.githubusercontent.com:443
+[2-1-2025 23:35] Search4Host: camo.githubusercontent.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:49808
+[2-1-2025 23:35] Target: raw.githubusercontent.com:443
+[2-1-2025 23:35] Search4Host: raw.githubusercontent.com
+[2-1-2025 23:35] New connection from 127.0.0.1:49822
+[2-1-2025 23:35] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:35] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:54288
+[2-1-2025 23:35] Target: github.githubassets.com:443
+[2-1-2025 23:35] Search4Host: github.githubassets.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:54300
+[2-1-2025 23:35] Target: github.githubassets.com:443
+[2-1-2025 23:35] Search4Host: github.githubassets.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:54316
+[2-1-2025 23:35] Target: alive.github.com:443
+[2-1-2025 23:35] Search4Host: alive.github.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:35] New connection from 127.0.0.1:54326
+[2-1-2025 23:35] New connection from 127.0.0.1:54334
+[2-1-2025 23:35] Target: http://ocsp.sectigo.com/
+[2-1-2025 23:35] Search4Host: ocsp.sectigo.com
+[2-1-2025 23:35] COUNT: 0
+[2-1-2025 23:36] New connection from 127.0.0.1:53454
+[2-1-2025 23:36] Target: raw.githubusercontent.com:443
+[2-1-2025 23:36] Search4Host: raw.githubusercontent.com
+[2-1-2025 23:36] COUNT: 0
+[2-1-2025 23:36] New connection from 127.0.0.1:44374
+[2-1-2025 23:36] Target: sb-ssl.google.com:443
+[2-1-2025 23:36] Search4Host: sb-ssl.google.com
+[2-1-2025 23:36] COUNT: 0
+[2-1-2025 23:36] New connection from 127.0.0.1:44378
+[2-1-2025 23:36] Target: http://o.pki.goog/wr2
+[2-1-2025 23:36] Search4Host: o.pki.goog
+[2-1-2025 23:36] COUNT: 0
+[2-1-2025 23:36] New connection from 127.0.0.1:44390
+[2-1-2025 23:36] Target: ads.mozilla.org:443
+[2-1-2025 23:36] Search4Host: ads.mozilla.org
+[2-1-2025 23:36] COUNT: 0
+[2-1-2025 23:36] New connection from 127.0.0.1:34336
+[2-1-2025 23:36] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:36] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:36] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:52302
+[2-1-2025 23:37] Target: http://www.blocklist.de/
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:52310
+[2-1-2025 23:37] Target: http://www.blocklist.de/en/index.html
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:52312
+[2-1-2025 23:37] New connection from 127.0.0.1:52314
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/style.css
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/js/cookieconsent.min.js
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51550
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/_stylesheet.css
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51552
+[2-1-2025 23:37] New connection from 127.0.0.1:51566
+[2-1-2025 23:37] New connection from 127.0.0.1:51582
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/house_32x32.png
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/lens_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51598
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/cancel_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51600
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/buildings_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51606
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/line_chart_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/line_graph_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51616
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/downloads_folder_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51622
+[2-1-2025 23:37] New connection from 127.0.0.1:51630
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/gear_wheel_32x32.png
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/check_mark_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51642
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51648
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/flash_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/left_arrow_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51650
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/file_32x32.png
+[2-1-2025 23:37] New connection from 127.0.0.1:51656
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/key_2_32x32.png
+[2-1-2025 23:37] New connection from 127.0.0.1:51664
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/lock_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51680
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51696
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/document_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51706
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/mail_32x32.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51720
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/clipboard_32x32.png
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/haken.gif
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51730
+[2-1-2025 23:37] New connection from 127.0.0.1:51738
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/k_de.jpg
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51754
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/k_nl.jpg
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51760
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51776
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/k_fr.jpg
+[2-1-2025 23:37] New connection from 127.0.0.1:51786
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/k_ru.jpg
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51796
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/images/t_mini-a.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/comment_16x16.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51804
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] New connection from 127.0.0.1:51820
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/images/Initiative-S-Siegel.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/image.php?pfad=/templates/images/stats/20250202.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/css/w3c_xhtml.png
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] New connection from 127.0.0.1:51834
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] Target: http://www.blocklist.de/templates/js/cookieconsent.min.js
+[2-1-2025 23:37] Search4Host: www.blocklist.de
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:37] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:58428
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/vcss-blue.png
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] New connection from 127.0.0.1:58444
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/images/en_btn_donate_SM.gif
+[2-1-2025 23:38] New connection from 127.0.0.1:58454
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] New connection from 127.0.0.1:58462
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/mainbk.png
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] New connection from 127.0.0.1:58472
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/k_en.jpg
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/blank_20.png
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:58486
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/header.jpg
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:58500
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/css/logo_web-size.jpg
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:42308
+[2-1-2025 23:38] Target: accounts.google.com:443
+[2-1-2025 23:38] Search4Host: accounts.google.com
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:45244
+[2-1-2025 23:38] Target: http://www.blocklist.de/en/export.html
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:53978
+[2-1-2025 23:38] Target: http://www.blocklist.de/templates/js/cookieconsent.min.js
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:53986
+[2-1-2025 23:38] Target: lists.blocklist.de:443
+[2-1-2025 23:38] Search4Host: lists.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:53990
+[2-1-2025 23:38] Target: http://dvcasha2.ocsp-certum.com/
+[2-1-2025 23:38] Search4Host: dvcasha2.ocsp-certum.com
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:38] New connection from 127.0.0.1:44488
+[2-1-2025 23:38] Target: http://www.blocklist.de/favicon.ico
+[2-1-2025 23:38] Search4Host: www.blocklist.de
+[2-1-2025 23:38] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46422
+[2-1-2025 23:40] Target: cyberpanel.net:443
+[2-1-2025 23:40] Search4Host: cyberpanel.net
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46434
+[2-1-2025 23:40] Target: mautic.cyberpanel.net:443
+[2-1-2025 23:40] Search4Host: mautic.cyberpanel.net
+[2-1-2025 23:40] New connection from 127.0.0.1:46450
+[2-1-2025 23:40] Target: cdn.onesignal.com:443
+[2-1-2025 23:40] Search4Host: cdn.onesignal.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46454
+[2-1-2025 23:40] Target: fonts.googleapis.com:443
+[2-1-2025 23:40] Search4Host: fonts.googleapis.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46460
+[2-1-2025 23:40] Target: http://e5.o.lencr.org/
+[2-1-2025 23:40] Search4Host: e5.o.lencr.org
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46462
+[2-1-2025 23:40] Target: http://o.pki.goog/wr2
+[2-1-2025 23:40] Search4Host: o.pki.goog
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46468
+[2-1-2025 23:40] Target: push.services.mozilla.com:443
+[2-1-2025 23:40] Search4Host: push.services.mozilla.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46480
+[2-1-2025 23:40] Target: http://r10.o.lencr.org/
+[2-1-2025 23:40] Search4Host: r10.o.lencr.org
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46484
+[2-1-2025 23:40] Target: embed.tawk.to:443
+[2-1-2025 23:40] Search4Host: embed.tawk.to
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46492
+[2-1-2025 23:40] Target: fonts.gstatic.com:443
+[2-1-2025 23:40] Search4Host: fonts.gstatic.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46496
+[2-1-2025 23:40] Target: va.tawk.to:443
+[2-1-2025 23:40] Search4Host: va.tawk.to
+[2-1-2025 23:40] New connection from 127.0.0.1:46500
+[2-1-2025 23:40] Target: va.tawk.to:443
+[2-1-2025 23:40] Search4Host: va.tawk.to
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46516
+[2-1-2025 23:40] Target: push.services.mozilla.com:443
+[2-1-2025 23:40] Search4Host: push.services.mozilla.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46526
+[2-1-2025 23:40] Target: va.tawk.to:443
+[2-1-2025 23:40] Search4Host: va.tawk.to
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46530
+[2-1-2025 23:40] Target: cdn.jsdelivr.net:443
+[2-1-2025 23:40] Search4Host: cdn.jsdelivr.net
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:46546
+[2-1-2025 23:40] Target: cdn.jsdelivr.net:443
+[2-1-2025 23:40] Search4Host: cdn.jsdelivr.net
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43444
+[2-1-2025 23:40] Target: secure.gravatar.com:443
+[2-1-2025 23:40] Search4Host: secure.gravatar.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35168
+[2-1-2025 23:40] Target: www.google.com:443
+[2-1-2025 23:40] Search4Host: www.google.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35172
+[2-1-2025 23:40] Target: http://o.pki.goog/wr2
+[2-1-2025 23:40] Search4Host: o.pki.goog
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35182
+[2-1-2025 23:40] Target: www.google.com:443
+[2-1-2025 23:40] Search4Host: www.google.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35190
+[2-1-2025 23:40] Target: http://o.pki.goog/wr2
+[2-1-2025 23:40] Search4Host: o.pki.goog
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35206
+[2-1-2025 23:40] Target: www.google.com:443
+[2-1-2025 23:40] Search4Host: www.google.com
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35218
+[2-1-2025 23:40] Target: http://o.pki.goog/wr2
+[2-1-2025 23:40] Search4Host: o.pki.goog
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35234
+[2-1-2025 23:40] Target: www.orf.at:443
+[2-1-2025 23:40] Search4Host: www.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:35248
+[2-1-2025 23:40] Target: http://ocsp.entrust.net/
+[2-1-2025 23:40] Search4Host: ocsp.entrust.net
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:42858
+[2-1-2025 23:40] New connection from 127.0.0.1:42862
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:42864
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:42878
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:42886
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:42888
+[2-1-2025 23:40] New connection from 127.0.0.1:42900
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] Target: assets.orf.at:443
+[2-1-2025 23:40] New connection from 127.0.0.1:42916
+[2-1-2025 23:40] Search4Host: assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:42928
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: data-d6e13c60e8.orf.at:443
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: orf.at:443
+[2-1-2025 23:40] Search4Host: data-d6e13c60e8.orf.at
+[2-1-2025 23:40] Search4Host: orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:42936
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: safebrowsing.googleapis.com:443
+[2-1-2025 23:40] Search4Host: safebrowsing.googleapis.com
+[2-1-2025 23:40] New connection from 127.0.0.1:42952
+[2-1-2025 23:40] New connection from 127.0.0.1:42962
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: orf.at:443
+[2-1-2025 23:40] Search4Host: orf.at
+[2-1-2025 23:40] Target: pipe.orf.at:443
+[2-1-2025 23:40] Search4Host: pipe.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:42974
+[2-1-2025 23:40] Target: orf.at:443
+[2-1-2025 23:40] Search4Host: orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:42990
+[2-1-2025 23:40] Target: wetter.orf.at:443
+[2-1-2025 23:40] Search4Host: wetter.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:42992
+[2-1-2025 23:40] Target: collector.orf.at:443
+[2-1-2025 23:40] Search4Host: collector.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43004
+[2-1-2025 23:40] Target: http://r10.o.lencr.org/
+[2-1-2025 23:40] Search4Host: r10.o.lencr.org
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43014
+[2-1-2025 23:40] Target: adnz.co:443
+[2-1-2025 23:40] Search4Host: adnz.co
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43022
+[2-1-2025 23:40] New connection from 127.0.0.1:43038
+[2-1-2025 23:40] Target: soph-assets.orf.at:443
+[2-1-2025 23:40] Search4Host: soph-assets.orf.at
+[2-1-2025 23:40] Target: soph-assets.orf.at:443
+[2-1-2025 23:40] Search4Host: soph-assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:43042
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43044
+[2-1-2025 23:40] Target: soph-assets.orf.at:443
+[2-1-2025 23:40] Search4Host: soph-assets.orf.at
+[2-1-2025 23:40] Target: soph-assets.orf.at:443
+[2-1-2025 23:40] Search4Host: soph-assets.orf.at
+[2-1-2025 23:40] New connection from 127.0.0.1:43046
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] Target: soph-assets.orf.at:443
+[2-1-2025 23:40] Search4Host: soph-assets.orf.at
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:40] New connection from 127.0.0.1:43060
+[2-1-2025 23:40] Target: sdk.privacy-center.org:443
+[2-1-2025 23:40] Search4Host: sdk.privacy-center.org
+[2-1-2025 23:40] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:42316
+[2-1-2025 23:41] Target: ads.mozilla.org:443
+[2-1-2025 23:41] Search4Host: ads.mozilla.org
+[2-1-2025 23:41] New connection from 127.0.0.1:42324
+[2-1-2025 23:41] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:41] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:42334
+[2-1-2025 23:41] Target: ads-img.mozilla.org:443
+[2-1-2025 23:41] Search4Host: ads-img.mozilla.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40318
+[2-1-2025 23:41] Target: lencr.org:443
+[2-1-2025 23:41] Search4Host: lencr.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40320
+[2-1-2025 23:41] Target: http://e6.o.lencr.org/
+[2-1-2025 23:41] Search4Host: e6.o.lencr.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40330
+[2-1-2025 23:41] Target: letsencrypt.org:443
+[2-1-2025 23:41] Search4Host: letsencrypt.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40336
+[2-1-2025 23:41] Target: donorbox.org:443
+[2-1-2025 23:41] Search4Host: donorbox.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40340
+[2-1-2025 23:41] Target: outreach.abetterinternet.org:443
+[2-1-2025 23:41] Search4Host: outreach.abetterinternet.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40344
+[2-1-2025 23:41] Target: http://r11.o.lencr.org/
+[2-1-2025 23:41] Search4Host: r11.o.lencr.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:41] New connection from 127.0.0.1:40354
+[2-1-2025 23:41] Target: outreach.abetterinternet.org:443
+[2-1-2025 23:41] Search4Host: outreach.abetterinternet.org
+[2-1-2025 23:41] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:58350
+[2-1-2025 23:43] Target: http://detectportal.firefox.com/success.txt?ipv4
+[2-1-2025 23:43] Search4Host: detectportal.firefox.com
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:35840
+[2-1-2025 23:43] Target: www.orf.at:443
+[2-1-2025 23:43] Search4Host: www.orf.at
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:35846
+[2-1-2025 23:43] Target: pipe.orf.at:443
+[2-1-2025 23:43] Search4Host: pipe.orf.at
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:35858
+[2-1-2025 23:43] New connection from 127.0.0.1:35868
+[2-1-2025 23:43] New connection from 127.0.0.1:35882
+[2-1-2025 23:43] Target: assets.orf.at:443
+[2-1-2025 23:43] Search4Host: assets.orf.at
+[2-1-2025 23:43] Target: wetter.orf.at:443
+[2-1-2025 23:43] Search4Host: wetter.orf.at
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:35886
+[2-1-2025 23:43] Target: collector.orf.at:443
+[2-1-2025 23:43] New connection from 127.0.0.1:35894
+[2-1-2025 23:43] Search4Host: collector.orf.at
+[2-1-2025 23:43] Target: orf.at:443
+[2-1-2025 23:43] Search4Host: orf.at
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:43] New connection from 127.0.0.1:35896
+[2-1-2025 23:43] Target: pipe.orf.at:443
+[2-1-2025 23:43] Search4Host: pipe.orf.at
+[2-1-2025 23:43] COUNT: 0
+[2-1-2025 23:44] New connection from 127.0.0.1:49090
+[2-1-2025 23:44] Target: incoming.telemetry.mozilla.org:443
+[2-1-2025 23:44] Search4Host: incoming.telemetry.mozilla.org
+[2-1-2025 23:44] COUNT: 0

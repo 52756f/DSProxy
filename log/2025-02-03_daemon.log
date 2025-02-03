@@ -1,0 +1,186 @@
+2025/02/03 09:18:10 Running in foreground
+2025/02/03 09:18:10 Defining die handler
+2025/02/03 19:50:20 Running in foreground
+2025/02/03 19:50:20 Defining die handler
+2025/02/03 20:26:33 App::Daemon die handler triggered.
+2025/02/03 20:26:33 Die handler called for pid 42992 but master pid is 41178
+2025/02/03 20:27:17 Running in foreground
+2025/02/03 20:27:17 Defining die handler
+2025/02/03 20:27:17 App::Daemon die handler triggered.
+2025/02/03 20:27:17 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 20:27:23 According to my pidfile, there's no instance of me running.
+2025/02/03 20:27:31 Running in foreground
+2025/02/03 20:27:31 Defining die handler
+2025/02/03 20:27:31 App::Daemon die handler triggered.
+2025/02/03 20:27:31 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 20:27:44 Running in foreground
+2025/02/03 20:27:44 Defining die handler
+2025/02/03 20:28:42 Running in foreground
+2025/02/03 20:28:42 Defining die handler
+2025/02/03 20:37:16 Running in foreground
+2025/02/03 20:37:16 Defining die handler
+2025/02/03 20:44:23 Running in foreground
+2025/02/03 20:44:23 Defining die handler
+2025/02/03 20:49:31 Running in foreground
+2025/02/03 20:49:31 Defining die handler
+2025/02/03 20:51:16 Running in foreground
+2025/02/03 20:51:16 Defining die handler
+2025/02/03 20:58:28 Running in foreground
+2025/02/03 20:58:28 Defining die handler
+2025/02/03 21:02:28 Running in foreground
+2025/02/03 21:02:28 Defining die handler
+2025/02/03 21:03:25 Running in foreground
+2025/02/03 21:03:25 Defining die handler
+2025/02/03 21:03:25 App::Daemon die handler triggered.
+2025/02/03 21:03:25 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:28 Running in foreground
+2025/02/03 21:03:28 Defining die handler
+2025/02/03 21:03:28 App::Daemon die handler triggered.
+2025/02/03 21:03:28 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:30 Running in foreground
+2025/02/03 21:03:30 Defining die handler
+2025/02/03 21:03:30 App::Daemon die handler triggered.
+2025/02/03 21:03:30 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:34 Running in foreground
+2025/02/03 21:03:34 Defining die handler
+2025/02/03 21:03:34 App::Daemon die handler triggered.
+2025/02/03 21:03:34 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:35 Running in foreground
+2025/02/03 21:03:35 Defining die handler
+2025/02/03 21:03:35 App::Daemon die handler triggered.
+2025/02/03 21:03:35 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:36 Running in foreground
+2025/02/03 21:03:36 Defining die handler
+2025/02/03 21:03:36 App::Daemon die handler triggered.
+2025/02/03 21:03:36 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:37 Running in foreground
+2025/02/03 21:03:37 Defining die handler
+2025/02/03 21:03:37 App::Daemon die handler triggered.
+2025/02/03 21:03:37 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:40 Running in foreground
+2025/02/03 21:03:40 Defining die handler
+2025/02/03 21:03:40 App::Daemon die handler triggered.
+2025/02/03 21:03:40 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:41 Running in foreground
+2025/02/03 21:03:41 Defining die handler
+2025/02/03 21:03:41 App::Daemon die handler triggered.
+2025/02/03 21:03:41 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:42 Running in foreground
+2025/02/03 21:03:42 Defining die handler
+2025/02/03 21:03:42 App::Daemon die handler triggered.
+2025/02/03 21:03:42 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:03:49 According to my pidfile, there's no instance of me running.
+2025/02/03 21:03:52 Running in foreground
+2025/02/03 21:03:52 Defining die handler
+2025/02/03 21:10:27 Running in foreground
+2025/02/03 21:10:27 Defining die handler
+2025/02/03 21:12:27 Running in foreground
+2025/02/03 21:12:27 Defining die handler
+2025/02/03 21:12:27 App::Daemon die handler triggered.
+2025/02/03 21:12:27 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:32 According to my pidfile, there's no instance of me running.
+2025/02/03 21:12:35 Running in foreground
+2025/02/03 21:12:35 Defining die handler
+2025/02/03 21:12:35 App::Daemon die handler triggered.
+2025/02/03 21:12:35 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:41 Running in foreground
+2025/02/03 21:12:41 Defining die handler
+2025/02/03 21:12:41 App::Daemon die handler triggered.
+2025/02/03 21:12:41 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:42 Running in foreground
+2025/02/03 21:12:42 Defining die handler
+2025/02/03 21:12:42 App::Daemon die handler triggered.
+2025/02/03 21:12:42 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:43 Running in foreground
+2025/02/03 21:12:43 Defining die handler
+2025/02/03 21:12:43 App::Daemon die handler triggered.
+2025/02/03 21:12:43 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:44 Running in foreground
+2025/02/03 21:12:44 Defining die handler
+2025/02/03 21:12:44 App::Daemon die handler triggered.
+2025/02/03 21:12:44 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:45 Running in foreground
+2025/02/03 21:12:45 Defining die handler
+2025/02/03 21:12:45 App::Daemon die handler triggered.
+2025/02/03 21:12:45 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:12:46 Running in foreground
+2025/02/03 21:12:46 Defining die handler
+2025/02/03 21:14:55 Running in foreground
+2025/02/03 21:14:55 Defining die handler
+2025/02/03 21:17:40 Running in foreground
+2025/02/03 21:17:40 Defining die handler
+2025/02/03 21:17:40 App::Daemon die handler triggered.
+2025/02/03 21:17:40 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:43 According to my pidfile, there's no instance of me running.
+2025/02/03 21:17:45 Running in foreground
+2025/02/03 21:17:45 Defining die handler
+2025/02/03 21:17:45 App::Daemon die handler triggered.
+2025/02/03 21:17:45 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:46 Running in foreground
+2025/02/03 21:17:46 Defining die handler
+2025/02/03 21:17:46 App::Daemon die handler triggered.
+2025/02/03 21:17:46 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:47 Running in foreground
+2025/02/03 21:17:47 Defining die handler
+2025/02/03 21:17:47 App::Daemon die handler triggered.
+2025/02/03 21:17:47 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:48 Running in foreground
+2025/02/03 21:17:48 Defining die handler
+2025/02/03 21:17:48 App::Daemon die handler triggered.
+2025/02/03 21:17:48 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:49 Running in foreground
+2025/02/03 21:17:49 Defining die handler
+2025/02/03 21:17:49 App::Daemon die handler triggered.
+2025/02/03 21:17:49 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:49 Running in foreground
+2025/02/03 21:17:49 Defining die handler
+2025/02/03 21:17:49 App::Daemon die handler triggered.
+2025/02/03 21:17:49 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:50 Running in foreground
+2025/02/03 21:17:50 Defining die handler
+2025/02/03 21:17:50 App::Daemon die handler triggered.
+2025/02/03 21:17:50 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:51 Running in foreground
+2025/02/03 21:17:51 Defining die handler
+2025/02/03 21:17:51 App::Daemon die handler triggered.
+2025/02/03 21:17:51 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:52 Running in foreground
+2025/02/03 21:17:52 Defining die handler
+2025/02/03 21:17:52 App::Daemon die handler triggered.
+2025/02/03 21:17:52 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:53 Running in foreground
+2025/02/03 21:17:53 Defining die handler
+2025/02/03 21:17:53 App::Daemon die handler triggered.
+2025/02/03 21:17:53 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:54 Running in foreground
+2025/02/03 21:17:54 Defining die handler
+2025/02/03 21:17:54 App::Daemon die handler triggered.
+2025/02/03 21:17:54 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:55 Running in foreground
+2025/02/03 21:17:55 Defining die handler
+2025/02/03 21:17:55 App::Daemon die handler triggered.
+2025/02/03 21:17:55 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:17:57 According to my pidfile, there's no instance of me running.
+2025/02/03 21:18:02 Running in foreground
+2025/02/03 21:18:02 Defining die handler
+2025/02/03 21:18:02 App::Daemon die handler triggered.
+2025/02/03 21:18:02 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:18:12 Running in foreground
+2025/02/03 21:18:12 Defining die handler
+2025/02/03 21:18:12 App::Daemon die handler triggered.
+2025/02/03 21:18:12 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:18:13 Running in foreground
+2025/02/03 21:18:13 Defining die handler
+2025/02/03 21:18:13 App::Daemon die handler triggered.
+2025/02/03 21:18:13 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:18:14 Running in foreground
+2025/02/03 21:18:14 Defining die handler
+2025/02/03 21:18:14 App::Daemon die handler triggered.
+2025/02/03 21:18:14 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:18:18 According to my pidfile, there's no instance of me running.
+2025/02/03 21:18:21 Running in foreground
+2025/02/03 21:18:21 Defining die handler
+2025/02/03 21:18:21 App::Daemon die handler triggered.
+2025/02/03 21:18:21 Die handler removes pidfile /home/franz/Perl/perl_proxy/script/ok_proxy.pid
+2025/02/03 21:19:22 Running in foreground
+2025/02/03 21:19:22 Defining die handler

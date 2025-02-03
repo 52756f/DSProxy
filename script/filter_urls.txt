@@ -1,0 +1,12 @@
+static.libsyn.com
+www.ard.de
+www.zdf.de
+api.zdf.de
+cmp2.zdf.de
+www.tagesschau.de
+facebook.com
+auth.sueddeutsche.de
+vx.sueddeutsche.de
+consent-cdn.sueddeutsche.de
+www.sueddeutsche.de
+
